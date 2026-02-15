@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nikita Gupta
 ### 🚀 Aspiring Java Backend Developer | PG-DAC Student at CDAC Noida
 
----<img src="https://github.com/ROHAN-1610/ROHAN-1610/raw/main/Github-banner.png" alt="logo" style="max-width: 100%;">
+
 
 
 
