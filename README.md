@@ -1,24 +1,24 @@
 # Hi 👋, I'm Nikita Gupta
-### 🚀 Aspiring Java Backend Developer | PG-DAC Student at CDAC Noida
+### 🚀 Aspiring Java Backend Developer | PG-DAC Student
 
 ---
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWtjZ3Z4eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1u78VvVvO1id6D1S3/giphy.gif">
 
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
 - 🎓 Pursuing **PG-DAC at CDAC Noida**
-- 💻 My projects are available at [https://github.com/Nikjagg](https://github.com/Nikjagg)
-- 💬 Ask me about **Java, SQL, Data Structures, or Backend Development**
-- 📫 Reach me at **nikitahk42@gmail.com**
-- ⚡ Fun fact **Logic error? Just add more coffee! ☕**
+- 💻 My projects: [https://github.com/Nikjagg](https://github.com/Nikjagg)
+- 💬 Ask me about **Java, SQL, or Backend Development**
+- 📫 Email: **nikitahk42@gmail.com**
+- ⚡ Fun fact: **I code to turn coffee into solutions! ☕**
 
 <br>
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="mailto:nikitahk42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nikita-gupta-8b43772a4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nikitahk42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nikita-gupta-8b43772a4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
