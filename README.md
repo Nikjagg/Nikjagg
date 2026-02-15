@@ -5,8 +5,7 @@
 
 
 
-<img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--girl-lady-woman-software-engineer-pack-it-illustrations-4545931.png">
-
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
 - 🎓 Pursuing **PG-DAC at CDAC Noida**
