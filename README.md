@@ -1,9 +1,9 @@
 # Hi 👋, I'm Nikita Gupta
-### 🚀 Aspiring Java Backend Developer | PG-DAC Student
+### 🚀 Aspiring Java Backend Developer | PG-DAC Student at CDAC Noida
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueWtjZ3Z4eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3eHh3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1u78VvVvO1id6D1S3/giphy.gif">
+<img align="right" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Developer.gif">
 
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
