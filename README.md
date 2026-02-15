@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there 👋, I'm Nikita Gupta!
+## Hi there 👋,  I'm Nikita Gupta
 
 ### 🚀 Aspiring Java Backend Developer | PG-DAC Student
 
