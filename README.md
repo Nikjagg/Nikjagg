@@ -1,24 +1,24 @@
 # Hi 👋, I'm Nikita Gupta
-### 🚀 Aspiring Java Backend Developer | PG-DAC (Pursuing)
+### 🚀 Aspiring Java Backend Developer | PG-DAC Student at CDAC Noida
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
 - 🎓 Pursuing **PG-DAC at CDAC Noida**
-- 💻 All of my projects are available at [https://github.com/Nikjagg](https://github.com/Nikjagg)
+- 💻 My projects are available at [https://github.com/Nikjagg](https://github.com/Nikjagg)
 - 💬 Ask me about **Java, SQL, Data Structures, or Backend Development**
-- 📫 How to reach me Email: **nikitahk42@gmail.com** | LinkedIn: [https://www.linkedin.com/in/nikita-gupta-8b43772a4](https://www.linkedin.com/in/nikita-gupta-8b43772a4)
+- 📫 Reach me at **nikitahk42@gmail.com**
 - ⚡ Fun fact **Logic error? Just add more coffee! ☕**
 
 <br>
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="mailto:nikitahk42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nikita" /></a>
-<a href="https://www.linkedin.com/in/nikita-gupta-8b43772a4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nikita Gupta" /></a>
+<a href="mailto:nikitahk42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nikita-gupta-8b43772a4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
