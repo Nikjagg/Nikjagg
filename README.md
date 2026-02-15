@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nikita Gupta
 ### 🚀 Aspiring Java Backend Developer | PG-DAC Student at CDAC Noida
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Hey!%20I'm%20Nikita%20Gupta&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=60&descSize=20" alt="Nikita Banner" />
+
 
 
 
