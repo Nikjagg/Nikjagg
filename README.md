@@ -3,7 +3,11 @@
 
 ---
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Developer.gif">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Nikita%20Gupta&fontSize=90" />
+</p>
+
 
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
