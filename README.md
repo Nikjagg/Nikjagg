@@ -4,10 +4,8 @@
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Nikita%20Gupta&fontSize=90" />
-</p>
 
+<img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--girl-lady-woman-software-engineer-pack-it-illustrations-4545931.png">
 
 - 🔭 I’m currently studying in the field of **Computer Science**
 - 🌱 I’m currently learning **Advanced Java, Spring Boot, and REST APIs**
